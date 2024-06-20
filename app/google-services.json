@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340698803410",
+    "project_id": "banknote-detector-5621c",
+    "storage_bucket": "banknote-detector-5621c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340698803410:android:48d8a36fcf35750596110b",
+        "android_client_info": {
+          "package_name": "com.example.banknotedetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPR5VjQ5NDhDOwV0bCOyEJbmHom1VOpvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

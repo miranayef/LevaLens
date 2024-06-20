@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        android:key="language"
+        android:title="@string/selectLanguageText"
+        android:summary="@string/selectLanguageDescription"
+        android:defaultValue="en"
+        android:entries="@array/language_entries"
+        android:entryValues="@array/language_values"
+        android:icon="@drawable/ic_language" />
+
+    <SwitchPreferenceCompat
+        android:key="torch_on_startup"
+        android:title="@string/torchPreferenceText"
+        android:summary="@string/torchPreferenceDescription"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_torch" />
+
+    <ListPreference
+        android:key="lens_facing"
+        android:title="@string/lensFacingPreferences"
+        android:summary="%s"
+        android:defaultValue="back"
+        android:entries="@array/lens_facing_entries"
+        android:entryValues="@array/lens_facing_values"
+        android:icon="@drawable/ic_switch_camera"
+    />
+
+    <SwitchPreferenceCompat
+        android:key="haptic_feedback"
+        android:title="@string/hapticFeedbackPreferences"
+        android:summary="@string/hapticFeedbackDescription"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_phone_vibrate"
+        />
+
+</PreferenceScreen>

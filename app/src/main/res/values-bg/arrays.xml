@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_entries">
+        <item>Английски</item>
+        <item>Български</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>en</item>
+        <item>bg</item>
+    </string-array>
+    <string-array name="lens_facing_entries">
+        <item>Предна камера</item>
+        <item>Задна камера</item>
+    </string-array>
+    <string-array name="lens_facing_values">
+        <item>front</item>
+        <item>back</item>
+    </string-array>
+</resources>

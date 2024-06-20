@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">LevaLens</string>
+    <string name="image_view">Capture Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="flash">flashlight\n</string>
+    <string name="app_icon">App Icon</string>
+    <string name="help_information">
+    Welcome to <i>LevaLens</i>! This application uses advanced image processing technology to help you identify Bulgarian banknotes quickly and easily.🔍\n\n
+    <b>How to Use:</b>\n
+    1. Point your camera at the banknote you want to identify.\n
+    2. Press the capture button or one of the volume buttons to take a picture.\n
+    3. The app will analyze the picture and read the result aloud.\n\n
+    <b>Important Note:</b>\n
+    Please be aware that this app is part of an ongoing research project. While we strive for accuracy, the results may not always be 100% precise.\n\n
+    Thank you for using our app! 😊
+    </string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="terms_of_use_text">
+        <b>1. Acceptance of Terms</b>\n\nBy downloading or using LevaLens, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. The developer is offering you LevaLens to use for your own personal use without cost, but you should be aware that you cannot send it on to anyone else, and you’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way.\n\n<b>2. Use of LevaLens</b>\n\nLevaLens is a tool designed to identify Bulgarian banknotes. While we strive to provide accurate results, we cannot guarantee the accuracy, reliability, or correctness of the predictions. The app is not a substitute for professional advice or services.\n\n<b>3. Disclaimer of Liability</b>\n\nTo the maximum extent permitted by applicable law, in no event will the owners, be liable for any indirect, punitive, incidental, special, consequential, or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data, or other intangible losses, that result from the use of, or inability to use, this service.\n\n<b>4. Privacy Policy</b>\n\nLevaLens is designed to respect your privacy. The app does not collect, store, or share any personal data. All image processing is done locally on your device.\n\n<b>5. Changes to These Terms</b>\n\nWe reserve the right to update these Terms of Use at any time. If we make changes, we will notify you by revising the date at the top of these Terms.\n\n<b>6. Contact Us</b>\n\nIf you have any questions about these Terms, please contact us at <b>levalens@gmail.com</b>."
+    </string>
+    <string name="app_version">Version 1.0</string>
+    <string name="AppName">LevaLens</string>
+    <string name="selectLanguageText">Language</string>
+    <string name="camera_permission_needed">Camera Permission Needed</string>
+    <string name="camera_permission_message">This app requires camera permission to function correctly. Please enable it in the app settings.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="selectLanguageDescription">Select the application language</string>
+    <string name="language_changed_to">Language changed to</string>
+    <string name="english">English</string>
+    <string name="bulgarian">Bulgarian</string>
+    <string name="torchPreferenceChanged">Torch on startup </string>
+    <string name="lensFacingPreferences">Toggle back and front camera</string>
+    <string name="camera_changed_to">Camera changed to</string>
+    <string name="camera_back">Back Camera</string>
+    <string name="camera_front">Front Camera</string>
+    <string name="hapticFeedbackPreferences">Enable haptic feedback</string>
+    <string name="hapticFeedbackDescription">Your phone vibrates on silent mode in correlation with banknote value. Higher value, more vibrations (e.g., 5 Lev = 1 vibration, 10 Lev = 2 vibrations, etc.).</string>
+    <string name="torchEnabled">Enabled</string>
+    <string name="torchDisabled">Disabled</string>
+    <string name="torchPreferenceText">Enable torch on startup</string>
+    <string name="torchPreferenceDescription">Automatically enable torch when the app starts. Torch will be turned off when you exit the application.</string>
+    <string name="noBanknoteDetected">No banknote detected</string>
+    <string name="banknote_nominal">Banknote Nominal</string>
+    <string name="confidence_score">Confidence Score</string>
+</resources>
